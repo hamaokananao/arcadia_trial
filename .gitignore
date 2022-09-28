@@ -1,0 +1,7 @@
+# Arcadia 開発環境用
+# 登録不要
+AUTOSAVE.COS
+*.hex
+*.lst
+*.bin
+*.bat
